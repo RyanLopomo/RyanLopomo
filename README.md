@@ -2,7 +2,7 @@
 
 # 🍹 SUCO DE FRUTA
 
-### 👋 Olá! Eu sou o Suco de Fruta.
+### 👋 Olá! Eu sou o Ryan.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D51D&center=true&vCenter=true&width=700&lines=Frontend+Developer+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;React+%7C+TypeScript+%7C+JavaScript;Construindo+projetos+reais;Todo+mundo+odeia+o+Chris...;Mas+ningu%C3%A9m+odeia+o+Suco+de+Fruta+%F0%9F%A5%A4" />
 
